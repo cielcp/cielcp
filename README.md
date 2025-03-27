@@ -5,7 +5,7 @@ A **designer & developer** with a background in **computer science and psycholog
 ### For Work 💼
 - **Frontend Development** – Building interactive and accessible web experiences using **React, Astro, Tailwind CSS**, and more.
 - **UX/UI Design** – Crafting designs with **user research, branding, and Figma**.
-- **Freelance & Product** – Helping businesses grow by designing and developing for a restaurant, an Upwork client, and a legaltech startup.
+- **Freelance & Product** – Helping businesses grow by designing and developing for [a restaurant](https://www.bangbop.com), [an Upwork client](https://www.chariotsbookkeeping.com), and [a legaltech startup](https://www.keepsake.com).
 
 ### Stack 🛠
 **Languages:** JavaScript (ES6+), TypeScript, Python, HTML, CSS, SQL, PHP
@@ -17,4 +17,6 @@ A **designer & developer** with a background in **computer science and psycholog
 - **Tennis** – I play in USTA leagues around Northern Virginia and was the varsity captain in high school.
 - **Gaming** – My most recent favorites have been cozy games like Breath of the Wild and Animal Crossing.
 
-📫 [linkedin.com/in/cielpark](https://www.linkedin.com/in/parkciel)
+### Elsewhere on the Internet 🌐
+- [linkedin.com/in/cielpark](https://www.linkedin.com/in/parkciel)
+- [cielpark.com](https://www.cielpark.com)
