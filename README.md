@@ -5,7 +5,7 @@ A **designer & developer** with a background in **computer science and psycholog
 ### For Work 💼
 - **Frontend Development** – Building interactive and accessible web experiences using **React, Astro, Tailwind CSS**, and more.
 - **UX/UI Design** – Crafting designs with **user research, branding, and Figma**.
-- **Freelance & Product** – Helping businesses grow by designing and developing for a [restaurant](https://www.bangbop.com), an [Upwork client](https://www.chariotsbookkeeping.com), and a [legaltech startup](https://www.keepsake.com).
+- **Freelance & Product** – Helping businesses grow by designing and developing for a [restaurant](https://www.bangbop.com), an [Upwork client](https://chariotsbookkeeping.com/), and a [legaltech startup](https://hellokeepsake.com).
 
 ### For Fun 🖼️
 - **Painting** – I’ve always had a passion for visual art and am currently learning Korean brush painting.
