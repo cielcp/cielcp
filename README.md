@@ -4,7 +4,7 @@ A **designer & developer** with a background in **computer science and psycholog
 
 ### For Work 💼
 - **Frontend Development** – Building interactive and accessible web experiences using **React, Astro, Tailwind CSS**, and more.
-- **UX/UI Design** – Crafting user-centered designs with **Figma, prototyping, and usability testing**.
+- **UX/UI Design** – Crafting designs with **user research, branding, and Figma**.
 - **Freelance & Product** – Helping businesses grow by designing and developing for a restaurant, an Upwork client, and a legaltech startup.
 
 ### Stack 🛠
@@ -13,13 +13,8 @@ A **designer & developer** with a background in **computer science and psycholog
 **Other Skills:** UI/UX, prototyping, animation, SEO, content strategy
 
 ### For Fun 🎨
-- **Painting** –
-- **Tennis** – 
-- **Gaming** – 
-  
-### Values 🌎 
-- **Community & Impact** – Volunteering at **food shelters** and supporting initiatives that make a difference.
-- **Accessible Design** – Ensuring technology works for **everyone**.
-
+- **Painting** – I’ve always had a passion for visual art and am currently learning Korean brush painting.
+- **Tennis** – I play in USTA leagues around Northern Virginia and was the varsity captain in high school.
+- **Gaming** – My most recent favorites have been cozy games like Breath of the Wild and Animal Crossing.
 
 📫 [linkedin.com/in/cielpark](https://www.linkedin.com/in/parkciel)
