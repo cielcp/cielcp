@@ -1,4 +1,4 @@
-# Hi, I'm Ciel Park 🌱
+# Hi, I'm Ciel 🌱
 
 A **designer & developer** with a background in **computer science and psychology**. I thrive at the intersection of **design, technology, and user experience**, shaping ideas into digital experiences.
 
